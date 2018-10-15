@@ -1,7 +1,5 @@
 # JVM_Study
 
-# Java_Study
-
 ## 作者：冰红茶  
 ## 参考书籍：《深入理解Java虚拟机》 周志明
     
